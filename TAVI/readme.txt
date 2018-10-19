@@ -1,3 +1,4 @@
+*Unfinished
 TAVI (Text Adventure VI) is the 6th texture adventure game I’ve made since high school. 
 Each new version of this game has better programming practices, new features, and more automation. 
 Unfortunately, I have never completed any of these games. 
