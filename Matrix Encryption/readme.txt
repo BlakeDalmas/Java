@@ -1,5 +1,5 @@
 This is an encryption method I created, I decided to call it "Matrix Encryption" or "Dimensional Encryption".
-It's not very useful since there's much better methods, I just made it for fun.
+There's definitely other encryption methods that are much more efficient and secure, I just made this for fun in high school.
 
 Explanation:
 Say you want to encrypt the word "Dog".
