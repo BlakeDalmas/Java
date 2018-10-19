@@ -10,7 +10,8 @@ As you traverse through the dungeon you are actually traversing through a tree.
 3) Unique items.
 4) Huge variety of enemies, weapons, armor, spells, etc.
 5) Spells are actually implemented this time.
-6) Rather than liner progression the game runs on a new location system, the position of the locations is randomized each new game and looks something like this:
+6) Rather than liner progression the game runs on a new location system. 
+The position of the locations is randomized each new game and looks something like this:
 
 O = outerlands
 3 = outer ring
